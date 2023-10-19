@@ -1,6 +1,5 @@
 # <h1 align="center">Hi there <img src="https://media1.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=6c09b9522a24599f78348fe6970a9d3963f31f3bbefe9e95&rid=giphy.gif&ct=s" width="40">, I'm _Shuvon!_</h1>
 
-## 🌟 About Me
 
 🎓 I'm currently pursuing my studies in Computer Science & Engineering at North South University. Welcome to my GitHub profile!
 
