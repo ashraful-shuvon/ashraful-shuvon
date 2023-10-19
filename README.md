@@ -8,12 +8,13 @@
 ## Languages, Databases and Libraries
 ***
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  title="html" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css" alt="css3" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  title="html" alt="html5" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css" alt="css3" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="mysql" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="mongodb" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="mysql" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="40" width="40"/>&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/pandas-dev/pandas/blob/main/web/pandas/static/img/pandas.svg" title="Pandas" alt="pandas" width="100" height="40" /> </a>&nbsp;
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/numpy/numpy/blob/main/branding/logo/logomark/numpylogoicon.svg" title="Numpy" alt="numpy"  width="40" height="40" /> </a>&nbsp;
@@ -24,18 +25,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
-## Language Stats
+## My Stats
 ***
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashraful-shuvon&theme=dark&background=000000)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashraful-shuvon&layout=compact&theme=vision-friendly-dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashraful-shuvon&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashraful-shuvon&theme=gruvbox&background=000000)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashraful-shuvon&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashraful-shuvon&layout=compact&theme=gruvbox)
+
 
 
 
 <!---
 ## 🌐 Connect with Me
 
-- GitHub: [GitHub Profile](https://github.com/ashraful-shuvon)
+- GitHub: [GitHub Profile](https://github.com/ashraful-shuvon) vision-friendly-dark gruvbox cobalt onedark
 - LinkedIn: [LinkedIn Profile](https://linkedin.com/in/shuvonn)
 - Twitter: [Twitter Profile](https://twitter.com/shuvonnnn)
 
