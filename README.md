@@ -10,6 +10,8 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  title="html" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css" alt="css3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="mysql" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="mongodb" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" height="40" width="40"/>&nbsp;
@@ -19,11 +21,16 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="seaborn" height="40" width="40"/>&nbsp;
    <img src="https://matplotlib.org/2.0.0/_static/logo2.svg" title="Matplotlib" alt="Matplotlib" height="50" width="80"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" alt="tensorflow" height="40" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
 ## Language Stats
 ***
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashraful-shuvon&layout=compact&theme=vision-friendly-dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashraful-shuvon&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-ashraful-shuvon&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+
 
 <!---
 ## 🌐 Connect with Me
