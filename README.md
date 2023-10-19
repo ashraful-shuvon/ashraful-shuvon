@@ -1,4 +1,6 @@
-# Hello, I'm Ashraful Shuvon 👋
+# Hi There, I'm Ashraful Shuvon 👋
+# Hi There, I'm <span style="color: blue;"><i>Shuvon</i></span> 👋
+
 
 I'm a passionate CSE student at North South University. Welcome to my GitHub profile!
 
