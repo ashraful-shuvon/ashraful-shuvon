@@ -1,4 +1,4 @@
-# Hi There, I'm <span style="color: red;"><i>Shuvon!</i></span> 👋
+# Hi There, I'm <span><i>Shuvon!</i></span> 👋
 
 
 I'm a passionate CSE student at North South University. Welcome to my GitHub profile!
