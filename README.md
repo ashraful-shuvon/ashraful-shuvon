@@ -21,7 +21,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="scikit-learn" height="40" width="40"/>&nbsp;
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="seaborn" height="40" width="40"/>&nbsp;
    <img src="https://matplotlib.org/2.0.0/_static/logo2.svg" title="Matplotlib" alt="Matplotlib" height="50" width="80"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" alt="tensorflow" height="40" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
@@ -40,5 +39,8 @@
 - GitHub: [GitHub Profile](https://github.com/ashraful-shuvon) vision-friendly-dark gruvbox cobalt onedark
 - LinkedIn: [LinkedIn Profile](https://linkedin.com/in/shuvonn)
 - Twitter: [Twitter Profile](https://twitter.com/shuvonnnn)
+
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" alt="tensorflow" height="40" width="40"/>&nbsp;
+
 
 Feel free to explore my projects and get in touch. Let's connect and create something amazing together! --->
