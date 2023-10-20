@@ -27,7 +27,7 @@
 ## My Stats
 ***
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashraful-shuvon&theme=gruvbox&background=000000)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashraful-shuvon&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashraful-shuvon&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashraful-shuvon&layout=compact&theme=gruvbox)
 
 
