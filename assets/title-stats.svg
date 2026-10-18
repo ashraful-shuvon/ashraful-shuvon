@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="90" viewBox="0 0 1000 90" role="img" aria-label="GAME STATS">
+<title>GAME STATS</title>
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#FF00C8"/><stop offset="1" stop-color="#FFE600"/></linearGradient>
+<filter id="glow" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="ul"><rect x="285" y="72" width="430" height="4"/></clipPath>
+</defs>
+<style>
+.t{animation:fl 4.5s linear infinite}
+@keyframes fl{0%,90%,100%{opacity:1}91%{opacity:.55}92%{opacity:1}94%{opacity:.7}95%{opacity:1}}
+.chl{animation:cl 1.1s ease-in-out infinite}.chr{animation:cr 1.1s ease-in-out infinite}
+@keyframes cl{0%,100%{transform:translateX(0)}50%{transform:translateX(-12px)}}
+@keyframes cr{0%,100%{transform:translateX(0)}50%{transform:translateX(12px)}}
+.cur{animation:bl .9s steps(1,end) infinite}@keyframes bl{0%{opacity:1}50%{opacity:0}100%{opacity:1}}
+.sc{animation:sw 2.6s linear infinite}@keyframes sw{from{transform:translateX(0)}to{transform:translateX(370px)}}
+</style>
+<rect x="225" y="0" width="550" height="86" rx="12" fill="#0F0C29" stroke="#FF00C8" stroke-opacity=".5" stroke-width="2"/>
+<text x="500" y="17" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="13" letter-spacing="3" fill="#FF9EEB">STAGE 04 // LIVE SCOREBOARD</text>
+<rect class="cur" x="632.9" y="6" width="8" height="12" fill="#FF9EEB"/>
+<g class="chl"><polygon points="321,30 303,46 321,62" fill="#FF00C8"/><polygon points="299,30 281,46 299,62" fill="#FFE600"/></g><g class="chr"><polygon points="679,30 697,46 679,62" fill="#FF00C8"/><polygon points="701,30 719,46 701,62" fill="#FFE600"/></g>
+<g class="t"><text x="500" y="62" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="46" letter-spacing="6" fill="url(#g)" stroke="#FF00C8" stroke-width="1" filter="url(#glow)">GAME STATS</text></g>
+<rect x="285" y="72" width="430" height="4" fill="url(#g)" opacity=".45"/>
+<g clip-path="url(#ul)"><rect class="sc" x="285" y="71" width="60" height="6" fill="#fff" opacity=".9"/></g>
+</svg>

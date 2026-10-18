@@ -13,7 +13,7 @@
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🕹️ PLAYER PROFILE
+<img src="assets/title-profile.svg" width="100%" alt="PLAYER PROFILE"/>
 
 </div>
 
@@ -36,7 +36,7 @@ I also collaborate with international clients, communicate project requirements,
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## ⚔️ INVENTORY — TECH STACK
+<img src="assets/title-inventory.svg" width="100%" alt="INVENTORY"/>
 
 ### 🎮 Game Engine & Languages
 <img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,java,js,python&perline=7&theme=dark" alt="Unity, C#, C++, C, Java, JavaScript, Python"/>
@@ -60,13 +60,13 @@ I also collaborate with international clients, communicate project requirements,
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## 📈 SKILL TREE
+<img src="assets/title-skills.svg" width="100%" alt="SKILL TREE"/>
 
 <img src="assets/skills.svg" width="85%" alt="Skill levels: Unity, C#, Multiplayer, Mobile Builds, Optimization, DSA"/>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## 📊 GAME STATS
+<img src="assets/title-stats.svg" width="100%" alt="GAME STATS"/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashraful-shuvon&theme=synthwave" alt="GitHub profile details"/>
 
@@ -78,7 +78,15 @@ I also collaborate with international clients, communicate project requirements,
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🎯 ACTIVE QUESTS
+<img src="assets/title-contrib.svg" width="100%" alt="CONTRIBUTION MAP"/>
+
+<img src="assets/contributions-3d.svg" width="100%" alt="3D contribution map"/>
+
+<sub>Every commit = XP. Last 12 months of contributions.</sub>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<img src="assets/title-quests.svg" width="100%" alt="ACTIVE QUESTS"/>
 
 <table align="center">
 <tr>
@@ -113,7 +121,7 @@ Optimizing games for mobile devices
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🤝 JOIN MY PARTY
+<img src="assets/title-party.svg" width="100%" alt="JOIN MY PARTY"/>
 
 Always up for co-op with other developers, exciting projects, and new tech.
 
