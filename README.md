@@ -7,7 +7,7 @@
 <a href="https://github.com/ashraful-shuvon"><img src="https://img.shields.io/badge/PLAYER-ashraful--shuvon-FF00C8?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0C29"/></a>
 <img src="https://img.shields.io/badge/CLASS-Unity_Dev-00F5FF?style=for-the-badge&logo=unity&logoColor=white&labelColor=0F0C29"/>
 <img src="https://img.shields.io/badge/LOCATION-Bangladesh-39FF14?style=for-the-badge&labelColor=0F0C29"/>
-<img src="https://komarev.com/ghpvc/?username=ashraful-shuvon&label=HIGH%20SCORE&color=FFE600&style=for-the-badge&labelColor=0F0C29"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-FFE600?style=for-the-badge&labelColor=0F0C29"/>
 
 <br/><br/>
 
