@@ -1,24 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="90" viewBox="0 0 1000 90" role="img" aria-label="JOIN MY PARTY">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="68" viewBox="0 0 1000 68" role="img" aria-label="JOIN MY PARTY">
 <title>JOIN MY PARTY</title>
 <defs>
 <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#00F5FF"/><stop offset="1" stop-color="#39FF14"/></linearGradient>
-<filter id="glow" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-<clipPath id="ul"><rect x="238.5" y="72" width="523" height="4"/></clipPath>
+<filter id="glow" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="ul"><rect x="284" y="57" width="432" height="3"/></clipPath>
 </defs>
 <style>
 .t{animation:fl 4.5s linear infinite}
 @keyframes fl{0%,90%,100%{opacity:1}91%{opacity:.55}92%{opacity:1}94%{opacity:.7}95%{opacity:1}}
 .chl{animation:cl 1.1s ease-in-out infinite}.chr{animation:cr 1.1s ease-in-out infinite}
-@keyframes cl{0%,100%{transform:translateX(0)}50%{transform:translateX(-12px)}}
-@keyframes cr{0%,100%{transform:translateX(0)}50%{transform:translateX(12px)}}
+@keyframes cl{0%,100%{transform:translateX(0)}50%{transform:translateX(-9px)}}
+@keyframes cr{0%,100%{transform:translateX(0)}50%{transform:translateX(9px)}}
 .cur{animation:bl .9s steps(1,end) infinite}@keyframes bl{0%{opacity:1}50%{opacity:0}100%{opacity:1}}
-.sc{animation:sw 2.6s linear infinite}@keyframes sw{from{transform:translateX(0)}to{transform:translateX(463px)}}
+.sc{animation:sw 2.6s linear infinite}@keyframes sw{from{transform:translateX(0)}to{transform:translateX(372px)}}
 </style>
-<rect x="178.5" y="0" width="643" height="86" rx="12" fill="#0F0C29" stroke="#00F5FF" stroke-opacity=".5" stroke-width="2"/>
-<text x="500" y="17" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="13" letter-spacing="3" fill="#FF9EEB">FINAL STAGE // PLAYER 2 WANTED</text>
-<rect class="cur" x="647" y="6" width="8" height="12" fill="#FF9EEB"/>
-<g class="chl"><polygon points="274.5,30 256.5,46 274.5,62" fill="#00F5FF"/><polygon points="252.5,30 234.5,46 252.5,62" fill="#39FF14"/></g><g class="chr"><polygon points="725.5,30 743.5,46 725.5,62" fill="#00F5FF"/><polygon points="747.5,30 765.5,46 747.5,62" fill="#39FF14"/></g>
-<g class="t"><text x="500" y="62" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="46" letter-spacing="6" fill="url(#g)" stroke="#00F5FF" stroke-width="1" filter="url(#glow)">JOIN MY PARTY</text></g>
-<rect x="238.5" y="72" width="523" height="4" fill="url(#g)" opacity=".45"/>
-<g clip-path="url(#ul)"><rect class="sc" x="238.5" y="71" width="60" height="6" fill="#fff" opacity=".9"/></g>
+<rect x="224" y="0" width="552" height="64" rx="10" fill="#0F0C29" stroke="#00F5FF" stroke-opacity=".5" stroke-width="2"/>
+<text x="500" y="15" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="11" letter-spacing="3" fill="#FF9EEB">FINAL STAGE // PLAYER 2 WANTED</text>
+<rect class="cur" x="623" y="6" width="7" height="10" fill="#FF9EEB"/>
+<g class="chl"><polygon points="320,21 307,33 320,45" fill="#00F5FF"/><polygon points="304,21 291,33 304,45" fill="#39FF14"/></g><g class="chr"><polygon points="680,21 693,33 680,45" fill="#00F5FF"/><polygon points="696,21 709,33 696,45" fill="#39FF14"/></g>
+<g class="t"><text x="500" y="47" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="30" letter-spacing="4" fill="url(#g)" stroke="#00F5FF" stroke-width="1" filter="url(#glow)">JOIN MY PARTY</text></g>
+<rect x="284" y="57" width="432" height="3" fill="url(#g)" opacity=".45"/>
+<g clip-path="url(#ul)"><rect class="sc" x="284" y="56" width="60" height="5" fill="#fff" opacity=".9"/></g>
 </svg>

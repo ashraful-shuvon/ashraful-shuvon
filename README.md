@@ -68,6 +68,8 @@ I also collaborate with international clients, communicate project requirements,
 
 <img src="assets/title-stats.svg" width="100%" alt="GAME STATS"/>
 
+<img src="assets/contrib-graph.svg" width="100%" alt="Daily contribution graph"/>
+
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashraful-shuvon&theme=synthwave" alt="GitHub profile details"/>
 
 <img src="https://streak-stats.demolab.com?user=ashraful-shuvon&theme=synthwave&hide_border=true&border_radius=10&background=0F0C29" width="70%" alt="GitHub streak"/>
@@ -75,14 +77,6 @@ I also collaborate with international clients, communicate project requirements,
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashraful-shuvon&theme=synthwave" alt="Repos per language"/>
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashraful-shuvon&theme=synthwave" alt="Most used languages"/>
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashraful-shuvon&theme=synthwave&utcOffset=6" alt="Productive time"/>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-<img src="assets/title-contrib.svg" width="100%" alt="CONTRIBUTION MAP"/>
-
-<img src="assets/contributions-3d.svg" width="100%" alt="3D contribution map"/>
-
-<sub>Every commit = XP. Last 12 months of contributions.</sub>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
