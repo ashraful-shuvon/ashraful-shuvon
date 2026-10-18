@@ -15,7 +15,7 @@
 .sc{animation:sw 2.6s linear infinite}@keyframes sw{from{transform:translateX(0)}to{transform:translateX(339px)}}
 </style>
 <rect x="240.5" y="0" width="519" height="86" rx="12" fill="#0F0C29" stroke="#FFE600" stroke-opacity=".5" stroke-width="2"/>
-<text x="500" y="17" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="13" letter-spacing="3" fill="#FF9EEB">STAGE 02 // LOADOUT & TECH STACK</text>
+<text x="500" y="17" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="13" letter-spacing="3" fill="#FF9EEB">STAGE 02 // LOADOUT + TECH STACK</text>
 <rect class="cur" x="656.4" y="6" width="8" height="12" fill="#FF9EEB"/>
 <g class="chl"><polygon points="336.5,30 318.5,46 336.5,62" fill="#FFE600"/><polygon points="314.5,30 296.5,46 314.5,62" fill="#FF6B6B"/></g><g class="chr"><polygon points="663.5,30 681.5,46 663.5,62" fill="#FFE600"/><polygon points="685.5,30 703.5,46 685.5,62" fill="#FF6B6B"/></g>
 <g class="t"><text x="500" y="62" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="46" letter-spacing="6" fill="url(#g)" stroke="#FFE600" stroke-width="1" filter="url(#glow)">INVENTORY</text></g>
