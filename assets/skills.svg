@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170" role="img" aria-label="Skill levels: Unity 9, C# 9, Multiplayer 7.5, Mobile 8.5, Optimization 7, DSA 6.5">
+<defs><pattern id="seg" width="10" height="14" patternUnits="userSpaceOnUse"><rect x="8" width="2" height="14" fill="#0F0C29"/></pattern></defs>
+<style>.bar{transform-box:fill-box;transform-origin:left center;animation:grow 8s ease-out infinite}
+@keyframes grow{0%{transform:scaleX(0)}30%{transform:scaleX(1)}92%{transform:scaleX(1)}100%{transform:scaleX(1)}}</style>
+<rect width="900" height="170" rx="10" fill="#0F0C29" opacity=".0"/>
+<g transform="translate(24,36)">
+<text y="0" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="15" fill="#00F5FF">UNITY</text>
+<rect y="10" width="200" height="18" fill="#0F0C29" stroke="#00F5FF" stroke-width="2"/>
+<rect class="bar" x="2" y="12" width="176.4" height="14" fill="#00F5FF"/>
+<rect x="2" y="12" width="196" height="14" fill="url(#seg)"/>
+<text x="214" y="25" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="15" fill="#fff">LV 9</text>
+</g><g transform="translate(316,36)">
+<text y="0" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="15" fill="#FF00C8">C#</text>
+<rect y="10" width="200" height="18" fill="#0F0C29" stroke="#FF00C8" stroke-width="2"/>
+<rect class="bar" x="2" y="12" width="176.4" height="14" fill="#FF00C8"/>
+<rect x="2" y="12" width="196" height="14" fill="url(#seg)"/>
+<text x="214" y="25" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="15" fill="#fff">LV 9</text>
+</g><g transform="translate(608,36)">
+<text y="0" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="15" fill="#39FF14">MULTIPLAYER</text>
+<rect y="10" width="200" height="18" fill="#0F0C29" stroke="#39FF14" stroke-width="2"/>
+<rect class="bar" x="2" y="12" width="147" height="14" fill="#39FF14"/>
+<rect x="2" y="12" width="196" height="14" fill="url(#seg)"/>
+<text x="214" y="25" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="15" fill="#fff">LV 8</text>
+</g><g transform="translate(24,112)">
+<text y="0" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="15" fill="#FFE600">MOBILE BUILDS</text>
+<rect y="10" width="200" height="18" fill="#0F0C29" stroke="#FFE600" stroke-width="2"/>
+<rect class="bar" x="2" y="12" width="166.6" height="14" fill="#FFE600"/>
+<rect x="2" y="12" width="196" height="14" fill="url(#seg)"/>
+<text x="214" y="25" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="15" fill="#fff">LV 9</text>
+</g><g transform="translate(316,112)">
+<text y="0" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="15" fill="#FF6B6B">OPTIMIZATION</text>
+<rect y="10" width="200" height="18" fill="#0F0C29" stroke="#FF6B6B" stroke-width="2"/>
+<rect class="bar" x="2" y="12" width="137.2" height="14" fill="#FF6B6B"/>
+<rect x="2" y="12" width="196" height="14" fill="url(#seg)"/>
+<text x="214" y="25" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="15" fill="#fff">LV 7</text>
+</g><g transform="translate(608,112)">
+<text y="0" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="15" fill="#A855F7">DSA / PROBLEMS</text>
+<rect y="10" width="200" height="18" fill="#0F0C29" stroke="#A855F7" stroke-width="2"/>
+<rect class="bar" x="2" y="12" width="127.4" height="14" fill="#A855F7"/>
+<rect x="2" y="12" width="196" height="14" fill="url(#seg)"/>
+<text x="214" y="25" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="15" fill="#fff">LV 7</text>
+</g>
+</svg>

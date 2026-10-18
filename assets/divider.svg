@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="14" viewBox="0 0 1000 14" role="presentation">
+<style>.d{animation:dm 1.2s linear infinite}@keyframes dm{to{stroke-dashoffset:-20}}</style>
+<line x1="0" y1="7" x2="1000" y2="7" stroke="#FF00C8" stroke-width="2" opacity=".45"/>
+<line class="d" x1="0" y1="7" x2="1000" y2="7" stroke="#00F5FF" stroke-width="4" stroke-dasharray="10 10"/>
+</svg>
